@@ -1,0 +1,9 @@
+Reference, Value, Footprint, Datasheet
+"U1","ADT7420","ADT7420:ADT7420",""
+"J4","conn_1.27","Pin_Headers:Pin_Header_Straight_1x04_Pitch1.27mm",""
+"J3","conn_2.54","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm",""
+"R2","10k","Resistors_SMD:R_0603_HandSoldering",""
+"R1","10k","Resistors_SMD:R_0603_HandSoldering",""
+"J2","A0","Pin_Headers:Pin_Header_Straight_2x01_Pitch1.27mm",""
+"J1","A1","Pin_Headers:Pin_Header_Straight_2x01_Pitch1.27mm",""
+"C1","0.1u","Capacitors_SMD:C_0603_HandSoldering",""
